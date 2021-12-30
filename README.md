@@ -1,0 +1,5 @@
+Hi, I’m @ozanakgoz. I'm a mechanical engineer who aims to create a toolset of his own. I mainly use excel (and sometimes python) for my tasks and projects. Often, i have to choose between VBA (for better usage by my colleauges) and python notebooks (due its powerful libraries). As these options limits usability of my works, i decided to develop my skills to create cross-platform gui applications. My aim is to create cross-platform gui applications for planning&scheduling tasks, scenarion evaluations, risk assessments and finally reporting those with beautiful dashboards and visualizations for each task.
+
+Currently, i'm learning front-end development, at the same time, i'm creating my shipment planning and scheduling tool together with learning process. Hoping to start to learn& develop back-end part of my project since i want it to be used by my colleauges simultaneously.
+
+I'm also interested with data mining and machine learning. Have some projects in my mind but those are my future projects. I need to complete my first project before that. One step at a time.
